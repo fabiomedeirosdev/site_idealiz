@@ -489,7 +489,7 @@ if (copyright) {
     const anoAtual = new Date().getFullYear();
 
     copyright.textContent =
-        `© ${anoAtual} Agência Idealiz. Todos os direitos reservados. Desenvolvido por @FabioMendesDev`;
+        `© ${anoAtual} Agência Idealiz. Todos os direitos reservados. Desenvolvido por @fabiomedeiros.dev`;
 
 }
 
