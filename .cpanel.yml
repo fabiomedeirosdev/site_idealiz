@@ -2,4 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home1/fabi4954/agenciaidealiz.com.br/
-    - /bin/cp -R . $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
+    - /bin/cp scripts.js $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
