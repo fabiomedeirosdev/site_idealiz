@@ -11,7 +11,7 @@ de interfaces e estruturação de páginas.
 
 ## Preview
 
-![Preview do Site Idealiz](./imagens/site-idealiz.png)
+![Preview do Site Idealiz](./imagens/capa_siteidealiz_github.png)
 
 ## Projeto
 
